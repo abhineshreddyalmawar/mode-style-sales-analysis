@@ -54,12 +54,16 @@ jupyter notebook
 
 📈 Sample Outputs
 
-Top 5 Customers by Sales (SQL + bar chart)
+## 🖼️ Project Demo Screenshots
 
-Monthly Sales Trend (line chart)
+### Top 5 Customers by Total Sales
+<img src="Outputs/top_customers.png" alt="Top Customers by Sales" width="500"/>
 
-(Optional) Revenue by Product
+### Monthly Sales Trend
+<img src="Outputs/monthly_sales_trend.png" alt="Monthly Sales Trend" width="500"/>
 
----
+### (Optional) Revenue by Product
+<img src="Outputs/revenue_by_product.png" alt="Revenue by Product" width="500"/>
+
 
 

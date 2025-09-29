@@ -1,4 +1,12 @@
-# Mode-Style Sales Analysis
+# 📊 Mode-Style Sales Analysis
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=plotly&logoColor=white)](https://matplotlib.org/)
+
+> A simple project that replicates the [Mode Analytics](https://mode.com) workflow (SQL → Python → Dashboard) using **PostgreSQL + Jupyter Notebook**.
 
 This project mimics the [Mode Analytics](https://mode.com) workflow:
 - **SQL Query**: Run in PostgreSQL (Top 5 customers by sales).

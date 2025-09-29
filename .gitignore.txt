@@ -1,0 +1,10 @@
+# Ignore Python cache & env
+__pycache__/
+*.pyc
+.venv/
+
+# Ignore databases
+*.db
+
+# Ignore Jupyter autosave
+.ipynb_checkpoints/

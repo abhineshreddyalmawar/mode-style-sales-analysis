@@ -51,6 +51,15 @@ pip install -r requirements.txt
 
 jupyter notebook
 
+## 🌟 Project Highlights
+- Built an **end-to-end analytics workflow** (SQL → Python → Dashboard) replicating Mode Analytics.
+- Queried **PostgreSQL 17** with SQLAlchemy to calculate **Top 5 Customers by Sales**.
+- Performed **data analysis with Pandas** to compute monthly sales trends.
+- Created **visualizations with Matplotlib** and exported charts as part of the report.
+- Organized project with a **clean folder structure** (data, notebooks, outputs) for GitHub publishing.
+- Published results in a **Jupyter Notebook + README with screenshots**, simulating a Mode dashboard.
+
+
 
 📈 Sample Outputs
 
